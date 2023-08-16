@@ -1,27 +1,9 @@
 ```
  █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
-██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
-███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗
-██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝
-██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-███████╗██╗  ██╗███████╗██╗     ██╗
-██╔════╝██║  ██║██╔════╝██║     ██║
-███████╗███████║█████╗  ██║     ██║
-╚════██║██╔══██║██╔══╝  ██║     ██║
-███████║██║  ██║███████╗███████╗███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-```
-
-# Awesome Shell [![Awesome][awesome-badge]][awesome-link]
-
-A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
-- [Shells](#shells)
-- [Command-Line Productivity](#command-line-productivity)
-  - [Directory Navigation](#directory-navigation)
+██╔══██╗██║    -navigation)
 - [Customization](#customization)
 - [For Developers](#for-developers)
-- [System Utilities](#system-utilities)
+- [
 - [Downloading and Serving](#downloading-and-serving)
 - [Multimedia and File Formats](#multimedia-and-file-formats)
 - [Applications](#applications)
@@ -377,7 +359,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Tools for managing multiple shell configurations. For zsh-specific tools, see the Zsh section.*
 
 * [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework
-* [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
+
 * [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces
 * [bpkg](https://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
